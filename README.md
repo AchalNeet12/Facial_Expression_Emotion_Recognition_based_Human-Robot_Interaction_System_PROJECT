@@ -10,10 +10,10 @@ A Facial Expression Emotion Recognition (FEER) based Human Robot Interaction Sys
 ## :mag:DATASET:
 
 The dataset used in this project is Facial Expression Recognition Dataset,It contains 48x48 pixel grayscale images of human-robot as well as human faces, each labeled with one of seven basic emotions.
--**Angry
--**Disgust
--**Fear
--**Happy
+**Angry
+**Disgust
+**Fear
+**Happy
 -**Neutral
 -**Sad
 -**Surprise
