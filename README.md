@@ -31,7 +31,7 @@ The dataset used in this project is Facial Expression Recognition Dataset,It con
  - Model Training: Training machine learning models (e.g., convolutional neural networks, support vector machines) on large datasets of labeled facial expressions.   
  - Emotion Classification: Classifying facial expressions into different emotions based on learned patterns.
 
-  **Deep Learning:
+  **Deep Learning:**
  - Convolutional Neural Networks (CNNs): Powerful neural networks capable of automatically learning complex features from images.   
  - Transfer Learning: Leveraging pre-trained models on large datasets to improve accuracy and reduce training time.
 
