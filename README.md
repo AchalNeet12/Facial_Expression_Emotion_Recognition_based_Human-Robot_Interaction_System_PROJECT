@@ -2,7 +2,6 @@
 - - -
 
 ## :clipboard:PROJECT OVERVIEW:
----
 
 A Facial Expression Emotion Recognition (FEER) based Human Robot Interaction System aims to develop a system that can accurately recognize human-robot as well as human emotions based on facial expressions and subsequently interact with humans in a more natural and empathetic manner.
 
@@ -14,9 +13,9 @@ The dataset used in this project is Facial Expression Recognition Dataset,It con
 **Disgust
 **Fear
 **Happy
--**Neutral
--**Sad
--**Surprise
+**Neutral
+**Sad
+**Surprise
 
 
 
